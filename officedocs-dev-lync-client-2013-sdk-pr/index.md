@@ -1,0 +1,1 @@
+# Welcome to office-lync-client-2013-sdk-docs!
